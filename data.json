@@ -1,0 +1,154 @@
+{
+  "formatted_address": "9983 Ulysses St NE, Blaine, MN 55434, USA",
+  "formatted_phone_number": "(651) 728-5497",
+  "name": "PetSuites Blaine",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 6:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "rating": 4.6,
+  "reviews": [
+    {
+      "author_name": "Sarah Shelafoe",
+      "author_url": "https://www.google.com/maps/contrib/117115843642061272698/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFhBVXm8cc3eM0rlqvMLK7egFQhRAeSHNaPClImCZJEHUBCw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "We love PetSuites in Blaine. Our 3-year-old dog Rocky is a rescue who gets along well with the other dogs but is very anxious in general. The PetSuites staff does an excellent job making him feel comfortable and recognizes when he needs a a little break from group play. I cannot say enough great things about their staff. Highly recommend!",
+      "time": 1779472954,
+      "translated": false
+    },
+    {
+      "author_name": "Melissa Hickman",
+      "author_url": "https://www.google.com/maps/contrib/117520264682634188037/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYchxHFmFWGuytOfnQlyh1-jmWCQozWfoKm7h5lvjHCKuQoiSq=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Wow \u2013 this place is incredible! I have a very neurotic (but sweet!!) dog and we need to board her and my orange tabby for 10 days. I brought my dog in for a doggie daycare to get her accustomed to the facilities. This place is top notch. It's clean and welcoming, the staff are so friendly and helpful - so enthusiastic about their work and it's obvious how much they adore animals. It's a very well-run operation. My poor pup was too nervous to play with the other dogs, so they worked with her (and I suspect they *may* have even given her a bath because she smelled lovely and was fluffy when I got her! Above and beyond!!!). The staff has answered all of my questions and were very gracious to allow me to tour the facility. The cat hotel also looks terrific and clean. I feel very comfortable leaving my fur-friends here for our upcoming trip. Thank you, PetSuites!",
+      "time": 1772750983,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Krieger",
+      "author_url": "https://www.google.com/maps/contrib/104833111341268536092/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQr4_8-XLjz435daZsXVvIVA5nHv5EMsif5whw8SSCWEvz6cA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Took Bella here for her first grooming appointment and this was the result. Bella has never looked better! She came back looking absolutely adorable, smelling so fresh, and feeling so soft. The price was very fair for the quality of service, and we couldn\u2019t be happier with how she turned out. We loved it and will definitely be back!",
+      "time": 1777152607,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Barnes",
+      "author_url": "https://www.google.com/maps/contrib/113554666891381287357/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWec0OHeX0mxvcKB5mRk5kI2y4AR4nEva5LATPQsYeJzDbkMgD_4w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Our dog absolutely loves daycare days and we do too!! We are so impressed with all PetSuites has to offer. It's great that we get to check-in on the webcams throughout the day, we love the fun events, and the staff is always so friendly checking in and out.\n\nOur dog unfortunately had an accident while at daycare and they handled the communication so well and followed through on their health satisfaction reimbursement. We were very impressed by that.\n\nThank you for all you do. We would recommend this PetSuites location to anyone!",
+      "time": 1745101775,
+      "translated": false
+    },
+    {
+      "author_name": "Ashlee Hora",
+      "author_url": "https://www.google.com/maps/contrib/117051632798315503301/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsnVoxGsuemB6TqXtW0zie9GAoUQH4qY_OAE6yKRSg5zTDX7A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "I used to bring my puppy, Luka, here for Puppy Preschool, and even though we absolutely loved it, I eventually stopped because it was a bit far from home. I tried another daycare that was closer, and it ended up being a horrible experience \u2014 stressful for both me and Luka. After that, I decided to bring him back here, and honestly, I am SO glad we did.\n\nThe difference is unbelievable. The staff here is truly something special \u2014 so caring, so genuine, and so patient. You can tell they love what they do and that they genuinely care about every dog who walks through their doors. Luka lights up when we arrive, has so much fun during the day, and comes home happy, relaxed, and clearly well-loved.\n\nEven with the extra drive, it is absolutely worth it. I have total peace of mind knowing Luka is safe, understood, and treated with kindness every single day. Coming back was the best decision I could have made for him, and I\u2019m beyond grateful for this amazing team. I truly can\u2019t recommend them enough!",
+      "time": 1764709987,
+      "translated": false
+    }
+  ],
+  "url": "https://maps.google.com/?cid=6345399410012200283",
+  "user_ratings_total": 260
+}
