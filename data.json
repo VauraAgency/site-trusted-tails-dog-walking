@@ -3,7 +3,7 @@
   "formatted_phone_number": "(651) 728-5497",
   "name": "PetSuites Blaine",
   "opening_hours": {
-    "open_now": false,
+    "open_now": true,
     "periods": [
       {
         "close": {
