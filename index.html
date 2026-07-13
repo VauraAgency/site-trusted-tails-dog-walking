@@ -76,6 +76,11 @@
   .service-detail .body { color: rgba(0,0,0,0.62); font-size: 0.95rem; }
   @media (max-width: 760px) { .service-detail-grid { grid-template-columns: 1fr; } }
 
+  .gallery-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 16px; }
+  .gallery-grid img { border-radius: 14px; width: 100%; height: 320px; object-fit: cover; }
+  .gallery-grid img:first-child { height: 320px; }
+  @media (max-width: 760px) { .gallery-grid { grid-template-columns: 1fr; } .gallery-grid img { height: 220px; } }
+
   .about-layout { display: grid; grid-template-columns: 1fr 0.9fr; gap: 48px; align-items: start; }
   .about-layout img { border-radius: 14px; aspect-ratio: 4/3; object-fit: cover; width: 100%; }
   .about-copy p { color: rgba(0,0,0,0.68); margin-bottom: 18px; max-width: 60ch; }
@@ -158,7 +163,7 @@
       </div>
     </div>
     <div class="hero-panel">
-      <img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3naoy9DcolPpB8yRk8iIRw7GrsbvZBiAANJGVyU6BlXAc1WzD-Zm6O8vB_q52G1tmD_g4VJNlztnG6ZGFiJsWQuVzTQLQNnP6-nbOntKDHVIFgyr1X4xkUinPktP1vzEdD8TvkiUcPsfHYyu1CuZ6JfuSRZH1Qe_yfxZ3dYg6VAapLrWoX04PPuH2BnT6DhVH-StFXEtVgE_kUi85z_B1UausroopQBBvQcAozXOdlN8k0J5qsttyd0n2HnvG81CLXq1ddnzDjgqlSVkTnPcJF0URjW2UKTixV0yxSjorowt4MljDNFQKFKwtkQK47J-bpHK2NiB0zHHar4zp8rgranTlxdGHZtsa1KFcpvJnk8jSg1YaEE5esjgNEseumAWiy01IHyzfAb4i8e3ueuEnLLTc2sbFP8GGOYLfHjWtI0PHc&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="Trusted Tails Dog Walking" loading="lazy">
+      <img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3lHzoE-5iadqxOGrRbtYCChSCGILj8iImGXPvtrXkNkoQCy_QCIS8O5zGa7suKPhTfYtXF-n8GEa1XbFv6PeTGTjUULkceeIf5QkBDTbO-COaDoHGoUFUiIzf4wyf92yTBvd5fg2lWN_nd4TSED-_3UDg5FTod5mERMyCE2Uz5ZCVSmsyA4C2ilbrI37rZrUjypyhi4jzny4qb7MvgakI5XkCtXlyAlcKlpZsjCSiWxGCpWpFSawflsd1N4uXiAIRtFrC5Dg-OsqKB8yl4iHDDRDXXSeXzOF033t0Zvz0EIhnBL7quxNB-unf2kV4VgZm1fHbqSEcVY2qUi4huhx0SLQdI7g0Lg7UsdUHj9qzXWFaCD-y_JUHjUNHBRWRCIQ-K80an5Fd1n0vXEitAxReaT6yAxSPYyTs975eEcZleXCJM&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="Trusted Tails Dog Walking" loading="lazy">
       <div class="hero-stat"><span class="num">4.6★</span><span class="label">from 260 Google reviews</span></div>
       <div class="hero-panel-row"><span class="k">Address</span><span>9983 Ulysses St NE, Blaine, MN 55434, USA</span></div>
       <div class="hero-panel-row"><span class="k">Phone</span><span>(651) 728-5497</span></div>
@@ -179,6 +184,14 @@
 <div class="service-row"><span class="name">Pet Sitting</span><span class="blurb">In-home visits while you are away.</span></div>
 <div class="service-row"><span class="name">Insured & Bonded</span><span class="blurb">Coverage in place for peace of mind.</span></div></div>
     </div>
+  </div>
+</section>
+
+<section class="tight">
+  <div class="container">
+    <div class="gallery-grid" data-reveal><img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3lHzoE-5iadqxOGrRbtYCChSCGILj8iImGXPvtrXkNkoQCy_QCIS8O5zGa7suKPhTfYtXF-n8GEa1XbFv6PeTGTjUULkceeIf5QkBDTbO-COaDoHGoUFUiIzf4wyf92yTBvd5fg2lWN_nd4TSED-_3UDg5FTod5mERMyCE2Uz5ZCVSmsyA4C2ilbrI37rZrUjypyhi4jzny4qb7MvgakI5XkCtXlyAlcKlpZsjCSiWxGCpWpFSawflsd1N4uXiAIRtFrC5Dg-OsqKB8yl4iHDDRDXXSeXzOF033t0Zvz0EIhnBL7quxNB-unf2kV4VgZm1fHbqSEcVY2qUi4huhx0SLQdI7g0Lg7UsdUHj9qzXWFaCD-y_JUHjUNHBRWRCIQ-K80an5Fd1n0vXEitAxReaT6yAxSPYyTs975eEcZleXCJM&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="Trusted Tails Dog Walking" loading="lazy">
+<img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3kchrl27_F8oB_kClgX-atpajd9hBEGa4iKcvaIX50mjjAyRpbOg7v9BIWLzkWCsirzlc-Myy_xKYnICH9Obv_onD4ndUqZ6OxF4r8rOgC_irvoogdef17JX5gI3ZX1Q9Wi0GsgN4GfgPVTB-iHOgNHNCe19_np_zbdwypzBPgJpU0omQBgi6-yVsoHxwujsuUZ2VYxQyERmA6PL7CZfAB8JVARfA22-DUhXDiQecvITd6m1K6H5HH0fopU7M6tQtdVtvoLyLgyk_ZehRG95b8VhUjEjGkBs1wXE5LZ6gX_V-8voHqvtxx3RzoijFnjW5zSHxtqNUJGz0taqimGQWbOq6xXCjAUT0f4d7_MP71VUlW5SOMZldH52trXDCgnLs0j_VmxMSpckfBQFzt9aS1rd9aF4nWA5D92zhmlKD_4CxVtyyxoUMdm21jlkIuO&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="Trusted Tails Dog Walking" loading="lazy">
+<img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3l7W6IB7XAEo3ms_SMJeRBkRXHQys_gfbaCZWCe-O015adTtDPxAP1XiPWv71sfSp9EmXICiPV3i766owWLF-sOUtTLTyyutXKUXWH7_Iwy8zshvxkCKAFxgmaplAjJUqwOvJ9fVblC2Tyu7acc_FMZTN-yVsGBTdPgdoTba0u4234HGVsGrgtjdylJLzqGIVwvMTSHaIwGd28jB-bkoZSHgVvjURazwVyKgZ147wPMxeg9XG8wjdgVBaRxW8OI6zdhtkmMDHV-4igmlHyC0-T1HbzseYXUfs6UuUf5mOg-slhE2SO1JY8yHuXY5N68iyMv3OB5jOgue14idzuguK09YHSN8VdlktvXFBCIzvyUMhlQYj1ksNlgjk3gKevt3tOzw7x9zO5JgHjh4PLENnWY9NJBttJ7qZBYz3JC_ikWTAs&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="Trusted Tails Dog Walking" loading="lazy"></div>
   </div>
 </section>
 
